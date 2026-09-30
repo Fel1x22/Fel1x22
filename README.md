@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 
 <div style="padding:20px">
 
-<img src="banner.svg" alt="banner" style="border-radius:20px">
+<img src="image.png" alt="banner" style="border-radius:20px">
     
-
 <div align="center">
 
 ### Junior Software Engineer | Computer Science Graduate
