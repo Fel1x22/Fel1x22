@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div backgroundcolor="#ff0000">
+<div style="background-color:#f0ead6;padding:20px">
 
-<img src="banner.svg" alt="banner">
+<img src="banner.svg" alt="banner" style="border-radius:20px">
+    
 
 <div align="center">
 
@@ -32,7 +33,7 @@ I am a junior software engineer with hands-on full-stack experience from my inte
 <p>BSc Computer Science - First Class</p>
 
 ### The Skinners School
-A-Levels in Maths, Further Maths, Economics, Computer Science: A* A* A* A
+A-Levels in Maths, Further Maths, Economics, Computer Science - A* A* A* A
 
 
 ## Find Me Here!
