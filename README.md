@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="background-color:#f0ead6;padding:20px">
+<div style="padding:20px">
 
 <img src="banner.svg" alt="banner" style="border-radius:20px">
     
