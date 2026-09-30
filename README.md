@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div backgroundcolor="#ff0000">
 
-<img src="ascii-slant-1790772419398.svg" alt="banner">
+<img src="banner.svg" alt="banner">
 
 <div align="center">
 
